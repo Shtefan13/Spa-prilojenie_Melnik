@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Spa-prilojenie_Melnik/static/css/main.67ee2383.css",
+    "main.js": "/Spa-prilojenie_Melnik/static/js/main.22036ab9.js",
+    "index.html": "/Spa-prilojenie_Melnik/index.html",
+    "main.67ee2383.css.map": "/Spa-prilojenie_Melnik/static/css/main.67ee2383.css.map",
+    "main.22036ab9.js.map": "/Spa-prilojenie_Melnik/static/js/main.22036ab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ee2383.css",
+    "static/js/main.22036ab9.js"
+  ]
+}
